@@ -23,4 +23,5 @@ self.token = 'YOURTOKEN'  # 请将这里的'YOUR_TOKEN'替换为你实际获取�
 ## 配置GPT
 
 当提到”新闻“、”热点“时会回复今日的热点新闻图片
+例如：
 ![示例图片](https://file.alapi.cn/60s/202502071738860733.png)
